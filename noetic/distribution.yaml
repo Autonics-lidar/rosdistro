@@ -4602,7 +4602,7 @@ repositories:
       type: git
       url: https://github.com/AutonicsLiDAR/lsc_ros_driver.git
       version: master
-    status: developed
+    status: maintained
   lsm_localization:
     doc:
       type: git
